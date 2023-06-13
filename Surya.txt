@@ -1,1 +1,1 @@
-welcome to Git hub
+Welcome to GitHub!
